@@ -1,0 +1,55 @@
+body{
+  background-color: #2C2C2C;
+  font-family: "Major Mono Display", monospace;
+}
+.audio{
+  text-align: center;
+}
+.gif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2rem;
+}
+h1{
+  color: #D4D4D4;
+  text-align: center;
+  font-size: 4rem;
+}
+.pro {
+  text-decoration: overline;
+}
+
+.ject {
+  text-decoration: underline;
+}
+.row{
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+.btn{
+
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: #D4D4D4;
+  text-align: center;
+}
+.social-icon{
+    margin: 20px 10px;
+}
+.social-icon:hover {
+  color: #D54638;
+}

@@ -1,0 +1,17 @@
+body {
+  background-color: #2C2C2C;
+}
+
+.navbar{
+  background-color: #000;
+}
+.navbar-brand {
+  font-family: "Major Mono Display", monospace;
+}
+.pro {
+  text-decoration: overline;
+}
+
+.ject {
+  text-decoration: underline;
+}
